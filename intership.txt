@@ -1,1 +1,3 @@
-im Ayushi , I am python Student , 
+Git is a tool that help us to save,track and manage change in our code.
+it uislike a Time machine for our code because we can save our code.
+
